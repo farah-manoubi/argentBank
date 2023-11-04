@@ -4,6 +4,7 @@ export const Banner = () =>{
     return (
         <>
             <div className={style.hero}>
+                
                 <section className={style.content}>
                     <h2 className={style.srOnly}>Promoted Content</h2>
                     <p className={style.subtitle}>No fees.</p>
